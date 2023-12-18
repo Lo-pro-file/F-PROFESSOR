@@ -25,7 +25,7 @@ yt-dlp==2023.11.16
 git+https://github.com/cinemagoer/cinemagoer
 
 #---others----#
-opencv-python-headless==4.7.0.68
+opencv-python-headless==4.8.1.78
 googletrans==4.0.0rc1
 telegraph==2.2.0
 python-dotenv==0.21.1
